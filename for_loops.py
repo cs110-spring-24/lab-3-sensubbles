@@ -123,4 +123,3 @@ if run == 10:
        if primes / 1 == primes:
            if primes / primes == 1:
                print(primes)
-        
